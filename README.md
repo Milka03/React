@@ -1,2 +1,3 @@
 # React
-Projects related to React/JavaScript
+Simple projects written in JavaScript (React)
+Each folder is a separate small application.
